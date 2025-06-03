@@ -1,141 +1,141 @@
-Cultivar,Quantidade (Kg)
-TINTAS,35.881.118
-Alicante Bouschet,4.108.858
-Ancelota,783.688
-Aramon,-
-Alfrocheiro,-
-Arinarnoa,147.979
-Aspirant Bouschet,138.338
-Barbera,35.292
-Bonarda,7.800
-Cabernet Franc,2.152.213
-Cabernet Sauvignon,5.917.173
-Caladoc,8.310
-Campanario,-
-Canaiolo,-
-Carignan,-
-Carmenere,14.360
-Castelão,-
-Corvina,2.200
-Croatina,-
-Cinsaut,-
-Dom Felder,-
-Dolcetto,-
-Durif,-
-Egiodola,1.439.540
-Ekigaina,1.000
-Festival (Sugraone),-
-Franconia,-
-Freisa,-
-Gamay St Romain,-
-Gamay Beaujolais,126.667
-Grand Noir,-
-Grenache,830
-Jaen,-
-Lagrein,3.100
-Lambrusco,15.620
-Malbec,584.141
-Marzemina,390
-Merlot,7.179.442
-Marselan,988.860
-Mistura de uvas viníferas tinto,700
-Molinera,2.600
-Montepulciano,42.503
-Moscato Bailey,170.188
-Napa Gamay,-
-Nebbiolo,26.788
-Petit Verdot,207.896
-Petite Sirah,173.887
-Pinotage,397.456
-Pinot Noir,4.182.135
-Pinot Saint George,5.060
-Piriquita,-
-Primitivo,1.650
-Rebo,330.784
-Refosco,-
-Rondinella,5.280
-Ruby Cabernet,163.069
-Sangiovese,92.540
-Saperavi,13.323
-Sira (falsa),-
-Tannat,5.712.207
-Tempranillo,375.165
-Teroldego,123.714
-Torrontes,23.500
-Tinta Barroca,-
-Tinta Roriz,3.006
-Touriga Francesa,-
-Touriga Nacional,171.866
-Tinta Madeira,-
-Tintoria,-
-Trincdeira,-
-Trousseau,-
-Zinfandel,-
-Outras1,-
-BRANCAS E ROSADAS,63.676.298
-Aliatico,-
-Aligote,-
-Altesse,-
-Alvarinho,150.467
-Arriloba,-
-Auxerrois,-
-Burger,-
-Chardonnay,8.315.602
-Chasselas,-
-Chenin Blanc,298.406
-Clairette(1),-
-Colombard,374.903
-Flora,-
-Garganega,400
-Gewurztraminer,239.070
-Gouveio,-
-Gros Manseng,4.510
-Italia (Pirovano 65) (PE),10.350
-Maccabeo,-
-Malvasia,-
-Malvasia Amarela,67.467
-Malvasia Bianca,80.786
-Malvasia Chianti,-
-Malvasia Verde,46.510
-Malvasia di Candia,6.869.071
-Malvasia Istriana,-
-Mistura de uvas viníferas branco,41.078
-Mistura de uvas viníferas rosado,1.100
-Moscato Branco,20.657.082
-Moscato Canelli,351.555
-Moscato Giallo,3.111.774
-Moscato Nazareno,504.982
-Moscato Bianco R2,1.211.053
-Moscato de Alexandria,404.111
-Moscato Rosado,900
-Muscat à Petits Grains,6.000
-Muller Thurgau,-
-Muscadelle,-
-Ora,-
-Palomino,-
-Petit Manseng,3.915
-Peverella,45.898
-Pinot Blanc,1.310
-Pinot Gris,178.683
-Prosecco,7.856.146
-Red Veltliner,-
-Riesling Italico,4.642.666
-Riesling Renano,126.736
-Sauvignon Blanc(2),818.122
-Sauvignon Gris,-
-Seara Nova,-
-Semillon,112.905
-Schonburger,12.687
-Sylvaner,2.342
-Tocai Friulano,6.150
-Trebbiano,5.954.818
-Trebbiano Toscano,139.845
-Verdea,-
-Verdelho,2.080
-Verdiso,-
-Vermentino,28.218
-Vernaccia,800
-Viogner,21.794
-Viognier,974.005
-Outras(3),-
-Total,99.557.416
+Cultivar;Quantidade
+TINTAS;35.881.118
+Alicante Bouschet;4.108.858
+Ancelota;783.688
+Aramon;-
+Alfrocheiro;-
+Arinarnoa;147.979
+Aspirant Bouschet;138.338
+Barbera;35.292
+Bonarda;7.800
+Cabernet Franc;2.152.213
+Cabernet Sauvignon;5.917.173
+Caladoc;8.310
+Campanario;-
+Canaiolo;-
+Carignan;-
+Carmenere;14.360
+Castelão;-
+Corvina;2.200
+Croatina;-
+Cinsaut;-
+Dom Felder;-
+Dolcetto;-
+Durif;-
+Egiodola;1.439.540
+Ekigaina;1.000
+Festival (Sugraone);-
+Franconia;-
+Freisa;-
+Gamay St Romain;-
+Gamay Beaujolais;126.667
+Grand Noir;-
+Grenache;830
+Jaen;-
+Lagrein;3.100
+Lambrusco;15.620
+Malbec;584.141
+Marzemina;390
+Merlot;7.179.442
+Marselan;988.860
+Mistura de uvas viníferas tinto;700
+Molinera;2.600
+Montepulciano;42.503
+Moscato Bailey;170.188
+Napa Gamay;-
+Nebbiolo;26.788
+Petit Verdot;207.896
+Petite Sirah;173.887
+Pinotage;397.456
+Pinot Noir;4.182.135
+Pinot Saint George;5.060
+Piriquita;-
+Primitivo;1.650
+Rebo;330.784
+Refosco;-
+Rondinella;5.280
+Ruby Cabernet;163.069
+Sangiovese;92.540
+Saperavi;13.323
+Sira (falsa);-
+Tannat;5.712.207
+Tempranillo;375.165
+Teroldego;123.714
+Torrontes;23.500
+Tinta Barroca;-
+Tinta Roriz;3.006
+Touriga Francesa;-
+Touriga Nacional;171.866
+Tinta Madeira;-
+Tintoria;-
+Trincdeira;-
+Trousseau;-
+Zinfandel;-
+Outras1;-
+BRANCAS E ROSADAS;63.676.298
+Aliatico;-
+Aligote;-
+Altesse;-
+Alvarinho;150.467
+Arriloba;-
+Auxerrois;-
+Burger;-
+Chardonnay;8.315.602
+Chasselas;-
+Chenin Blanc;298.406
+Clairette(1);-
+Colombard;374.903
+Flora;-
+Garganega;400
+Gewurztraminer;239.070
+Gouveio;-
+Gros Manseng;4.510
+Italia (Pirovano 65) (PE);10.350
+Maccabeo;-
+Malvasia;-
+Malvasia Amarela;67.467
+Malvasia Bianca;80.786
+Malvasia Chianti;-
+Malvasia Verde;46.510
+Malvasia di Candia;6.869.071
+Malvasia Istriana;-
+Mistura de uvas viníferas branco;41.078
+Mistura de uvas viníferas rosado;1.100
+Moscato Branco;20.657.082
+Moscato Canelli;351.555
+Moscato Giallo;3.111.774
+Moscato Nazareno;504.982
+Moscato Bianco R2;1.211.053
+Moscato de Alexandria;404.111
+Moscato Rosado;900
+Muscat à Petits Grains;6.000
+Muller Thurgau;-
+Muscadelle;-
+Ora;-
+Palomino;-
+Petit Manseng;3.915
+Peverella;45.898
+Pinot Blanc;1.310
+Pinot Gris;178.683
+Prosecco;7.856.146
+Red Veltliner;-
+Riesling Italico;4.642.666
+Riesling Renano;126.736
+Sauvignon Blanc(2);818.122
+Sauvignon Gris;-
+Seara Nova;-
+Semillon;112.905
+Schonburger;12.687
+Sylvaner;2.342
+Tocai Friulano;6.150
+Trebbiano;5.954.818
+Trebbiano Toscano;139.845
+Verdea;-
+Verdelho;2.080
+Verdiso;-
+Vermentino;28.218
+Vernaccia;800
+Viogner;21.794
+Viognier;974.005
+Outras(3);-
+Total;99.557.416
