@@ -93,7 +93,7 @@ pytest
 
 ## 📊 Diagrama de Arquitetura
 
-📎 [Link para o diagrama - draw.io, PNG ou PDF](https://seulink.com/diagrama)
+📎 ![[Link para o diagrama - draw.io, PNG ou PDF](https://seulink.com/diagrama)](https://github.com/Luc45-S1lva/api-embrapa-tech-challenge/blob/1371979e1eeba23794491a0908af77140f156f3c/Fluxograma_Embrapa.drawio.png)
 
 ---
 
