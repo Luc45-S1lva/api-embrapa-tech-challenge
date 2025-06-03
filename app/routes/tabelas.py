@@ -4,7 +4,7 @@ from app.auth.jwt import get_current_user
 
 router = APIRouter(prefix="/tabelas", tags=["Tabelas"])
 
-@router.get("/")
+@router.get("/", dependencies=[Depends(get_current_user)])
 
 def listar_tabelas():
     return leitor_csv.listar_arquivos_csv()

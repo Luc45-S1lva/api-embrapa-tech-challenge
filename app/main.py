@@ -4,7 +4,7 @@ from app.auth import jwt
 
 app = FastAPI(title="API Embrapa - Fase 1")
 
-#app.include_router(jwt.router)
+app.include_router(jwt.router)
 app.include_router(tabelas.router)
 
 @app.get("/")
