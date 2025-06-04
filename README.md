@@ -81,7 +81,7 @@ pytest
 
 ## 🌐 Link do Deploy
 
-🔗 [Link para a API](https://api-embrapa-tech-challenge-mrhx.onrender.com)
+🔗 [Link para a API](https://api-embrapa-tech-challenge-mrhx.onrender.com/docs)
 
 ---
 
