@@ -81,13 +81,13 @@ pytest
 
 ## 🌐 Link do Deploy
 
-🔗 [Link para A API Swagger](https://api-embrapa-tech-challenge-mrhx.onrender.com)
+🔗 [Link para a API](https://api-embrapa-tech-challenge-mrhx.onrender.com)
 
 ---
 
 ## 📺 Vídeo de apresentação
 
-🎥 [Link para o vídeo de apresentação no YouTube](https://youtu.be/seu_video)
+🎥 [Link para o vídeo de apresentação no YouTube](https://youtu.be/dxJsp6q9qhM)
 
 ---
 
