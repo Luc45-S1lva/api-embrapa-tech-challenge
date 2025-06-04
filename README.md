@@ -43,7 +43,7 @@ projeto_embrapa/
 ## 🔐 Autenticação
 
 - Rota `/login` com usuário: `admin` e senha: `1234`
-- Use o token JWT retornado para acessar os endpoints protegidos
+- Use o token JWT retornado para acessar os endpoints protegidos (Desativado)
 
 ---
 
@@ -81,7 +81,7 @@ pytest
 
 ## 🌐 Link do Deploy
 
-🔗 [https://api-embrapa.onrender.com](https://api-embrapa.onrender.com) *(exemplo)*
+🔗 [Link para A API Swagger](https://api-embrapa-tech-challenge-mrhx.onrender.com)
 
 ---
 
@@ -107,9 +107,8 @@ pytest
 
 ---
 
-## 📢 Pós-entrega
+## 📢 Equipe
 
-Se curtiu o projeto, compartilha no LinkedIn!  
-Marque o professor **Ioannis Pedro**, a **coordenadora Ana Raquel** e o colega **Lucas Silva**.
+**Lucas Silva** RM361127 5MLET
 
 ---
